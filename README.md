@@ -1,6 +1,7 @@
-### Hi there 👋 
-I am junior Python developer who likes to build things bots and smart programs🚀
+### Hi there 👨🏻‍💻 
+I am junior Python developer who likes to build things bots and smart programs🦾
 
 ## Languages / Frameworks / Technologies
-<img width="473" alt="Frame 3" src="https://user-images.githubusercontent.com/84875420/180800007-586392cd-c5a7-4f9d-91d4-4d57b97407ba.png">
+<img width="447" alt="Frame 3" src="https://user-images.githubusercontent.com/84875420/180805288-1d23455a-c81c-4be1-a07c-39d3ac740a6d.png">
+
 
