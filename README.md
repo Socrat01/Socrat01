@@ -3,7 +3,6 @@ I am junior Python developer who likes to build things bots and smart programs ð
 
 ## Languages :link: Frameworks :link: Technologies 
 
-
-<img width="447" alt="Frame 3" src="https://user-images.githubusercontent.com/84875420/180806900-2e08d7f4-abc1-4927-84ff-3c653487e192.png">
+<img width="447" alt="skill" src="https://user-images.githubusercontent.com/84875420/180869428-e831f0f2-3400-4516-9db7-eb126a31d74b.png">
 
 
